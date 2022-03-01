@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the author of the Vindication of the deprived bishops, in reply to his reasons for the validity of the lay-deprivation of the bishops by the statute of 1 Eliz. c. 1.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10081</idno>
+            <idno type="OCLC"> 80923982</idno>
+            <idno type="STC">Wing S5428B</idno>
+            <idno type="STC">ESTC N33861</idno>
+            <idno type="EEBO-CITATION">80923982</idno>
+            <idno type="OCLC">ocm 80923982</idno>
+            <idno type="VID">192033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192033)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2898:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the author of the Vindication of the deprived bishops, in reply to his reasons for the validity of the lay-deprivation of the bishops by the statute of 1 Eliz. c. 1.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Stephens by Wing.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dodwell, Henry, 1641-1711. --  Vindication of the deprived bishops.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:192033:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> LETTER <hi>to the Author of the</hi> Vindication of the Deprived Biſhops, <hi>in</hi> REPLY <hi>to his</hi> Reaſons <hi>for the Validity of the</hi> Lay-Deprivation <hi>of the Biſhops by the Statute of</hi> 1 Eliz. c. 1.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEcauſe you ſeem to reſent my not taking notice of your Diſ<g ref="char:EOLhyphen"/>courſe annexed to the <hi>Defence of the Vindication,</hi> to deal plainly with you, I had ſo far conſider'd it, that I did not think it worthy of regard. You have in thoſe Books, in my ap<g ref="char:EOLhyphen"/>prehenſion, done like a Mercenary Advocate, who will maintain the Cauſe he is retained in, as well, and as far, as he can, be it good or bad: for you were ingaged in two very different Cauſes; the one, very good, and that you manage very well; and there is no ſtanding againſt you: the other, very bad, falſe and deceitful; and therein you are like <hi>Sampſon,</hi> when his Locks were ſhorn by an Harlot; you do what you can, but your Strength is departed; you can make nothing on't, but only talk, and furniſh Talk for Tatlers; or, it may be, to amuſe the Vulgar; but not to ſatisfie any Man of competent Judgment. This indeed was my apprehen<g ref="char:EOLhyphen"/>ſion upon my firſt Inſpection into them; which my farther Peruſal hath only more confirmed. And therefore ſince you are ſo con<g ref="char:EOLhyphen"/>cerned for a <hi>Reply to your Reaſons,</hi> I am very free to ſerve you even beyond your deſire, and, if poſſible, not only to ſatisfie your ſelf, but undeceive ſuch as you may have either miſled into, or confirm'd in Error; and ſo prevent what I can of the Evil which from others might recurr upon your ſelf.</p>
+            <p>You have ſo well aſſerted <hi>the Rights of the Catholick Church,</hi> and of all Particular Churches, which are true Members of it, againſt the Uſurpations of the State, that you had driven your Adverſaries for their laſt Refuge to the meaneſt of all Arguments, a ſpiteful <hi>Argumentum ad hominem,</hi> to ſtop your Mouth with that: and, in my Opinion, you had done much better to have held your hand there, than to have diſparaged ſo commendable an Atchievement by ſo in<g ref="char:EOLhyphen"/>excuſable an Undertaking of ſo indefenſible a Cauſe, and left that to the Management of your defeated Adverſaries, who are as much concerned to defend it as your ſelf. But, bleſſed be God, who hath extorted ſo much Truth from ſuch as detained it in Unrighteouſ<g ref="char:EOLhyphen"/>neſs, and, I hope, will reſcue the reſt, and detect the Fallacies wherewith the common Adverſary had diſguiſed it, and <hi>deceived</hi> ſo many poor Mortals of theſe and other <hi>Nations.</hi>
+            </p>
+            <p>
+               <hi>Two things</hi> are <hi>objected</hi> to you; the <hi>Oath of Supremacy,</hi> and the <hi>Deprivation of the Biſhops,</hi> by the ſame Act of Parliament, 1 <hi>Eliz. c.</hi> 1.
+<pb n="2" facs="tcp:192033:2"/>As to <hi>the Oath,</hi> you labour hard to make that tolerable by Expo<g ref="char:EOLhyphen"/>ſition, which you think intolerable in the Expreſſion, and imploy no leſs than 20. pages on that Service: But when all's done, there's no more expreſsly excepted out of the meaning of the Oath by the Queen's Injunction or Admonition, than <hi>Power of Miniſtery of Di<g ref="char:EOLhyphen"/>vine Service in the Church,</hi> which, being maliciouſly collected from it by ſome, was the only Occaſion of the Admonition; but was never practiſed by her Father, or Brother. But all manner of Juriſdiction, Spiritual or Eccleſiaſtical, is retained by <hi>Stat.</hi> 1 <hi>Eliz. c.</hi> 1. contained in the <hi>Oath,</hi> and all Authority challenged and uſed by them, declared by <hi>Stat.</hi> 5 <hi>Eliz. c.</hi> 1. to be intended in it, and is ſufficiently expreſſed by the Words, <hi>Rule over all manner of Perſons, either Eccleſiaſtical or Tempo<g ref="char:EOLhyphen"/>ral,</hi> in the Admonition it ſelf; and beſides all, is continued in Practice all along, as may be obſerved in divers inſtances beſides thoſe men<g ref="char:EOLhyphen"/>tioned by you, as the
+<note n="†" place="margin">This alone ſpoils the Ex<g ref="char:EOLhyphen"/>poſition, and the firſt of them grant<g ref="char:EOLhyphen"/>ed immedi<g ref="char:EOLhyphen"/>ately after the Injuncti<g ref="char:EOLhyphen"/>ons diſproves it. <hi>v. Burnet, p.</hi> 387, 397, 400. and <hi>Re<g ref="char:EOLhyphen"/>cord.</hi> 7 <hi>p.</hi> 350.</note> High Commiſſions, Commiſſions of Delegates, Calling of Synods, Authorizing Canons, Ordering and Authorizing Publick Prayers, Elections of Biſhops: And what are
+<note n="‖" place="margin">The firſt Act, to try their Diſpo<g ref="char:EOLhyphen"/>ſition, an Act of Sacrilege. v. <hi>Burnet, p.</hi> 382.</note> Firſt Fruits and Tenths, but Solemnities of Recognition of Eccleſiaſtical Supre<g ref="char:EOLhyphen"/>macy? And when I ſee ſuch <hi>Facts,</hi> what do all your <hi>Words</hi> ſigni<g ref="char:EOLhyphen"/>fie? I confeſs I have been deceived my ſelf by that Injunction; which might have been well enough till the next Parliament; but if what you conceive had been well intended, Why was not the Form of the Oath ordered accordingly in all this time; but ſo great a part of the Nation muſt ſwear one thing in Words, and be autho<g ref="char:EOLhyphen"/>rized to think and intend another like their Grand-Father <hi>Cran<g ref="char:EOLhyphen"/>mer</hi>'s ſwearing to the Pope, and ſolemnly proteſting he intended no ſuch matter. No wonder if after ſuch Precedents the whole Na<g ref="char:EOLhyphen"/>tion be ſo involved in Perjury, as there is reaſon to believe it is.</p>
+            <p>But our principal Buſineſs is, <hi>the two Lay-Deprivations,</hi> either both valid, or neither valid: but if either alone be invalid, it muſt cer<g ref="char:EOLhyphen"/>tainly be the firſt: for they were both by Act of Parliament; but to the firſt, divers of the Biſhops
+<note n="*" place="margin">V. <hi>Burnet, p.</hi> 385, 386. The Biſhops made <hi>Speeches</hi> againſt it in the Houſe.</note> actually oppoſing, and none con<g ref="char:EOLhyphen"/>ſenting; ſo that that was a <hi>meer Lay Act:</hi> but to the latter, divers conſenting and voting for it, and none, for ought I know, actually oppoſing: ſo that that was not a meer Lay-Act, but a <hi>mixt Act,</hi> and as much Eccleſiaſtical as ſome ſo reputed among the Ancient Chriſtians, and divers anciently of this Nation. But my Buſineſs here is not to inforce your Adverſaries Argument, but <hi>a Reply to your Reaſons</hi> for the Validity of that Deprivation, which, if invalid, makes the Original of your Succeſſion invalid and ſchiſmatical.</p>
+            <p>And firſt you ſay, the <hi>Royal Commiſſions</hi> taken out by Biſhop <hi>Bon<g ref="char:EOLhyphen"/>ner,</hi> and as many as followed his Example, <hi>&amp;c.</hi> will afford <hi>a ſufficient Reaſon for the Lay-Deprivation</hi> of thoſe Biſhops. Certainly an un<g ref="char:EOLhyphen"/>happy beginning with ſo groſs an act of <hi>Diſingenuity,</hi> as needleſsly
+<pb n="3" facs="tcp:192033:2" rendition="simple:additions"/>ſhall I ſay, or maliciouſly, or falaciouſly; but however to charge that upon <hi>Bonner</hi> for ſetting the Example, which you know is by an <hi>Author</hi> you commend, and in the very page you cite diſprov'd, and charg'd upon <hi>Cranmer</hi> with good proof, whoſe Project it is moſt
+<note n="†" place="margin">Nay, moſt certainly, as both Form and Time clearly e<g ref="char:EOLhyphen"/>vince. <hi>Bon<g ref="char:EOLhyphen"/>ner</hi> was not ſo much as Biſhop when <hi>Cranmer</hi> and others took their Com<g ref="char:EOLhyphen"/>miſſions.</note> likely it was. Nor more lucky is your firſt Reaſon. For thoſe Commiſſions were out of doors in Queen <hi>Mary</hi>'s days: There were none who held by Commiſſion then, but all were in upon the old and proper Title: Nor was any one outed upon any ſuch pretence in Queen <hi>Elizabeth</hi>'s time: So that this is a meer ſhift to help a lame Cauſe, a meer Colour, that hath nothing in it. And you needed not have inſiſted on it, or indeed mentioned it for no bet<g ref="char:EOLhyphen"/>ter Service to your Cauſe: but ſince you have, it will be but juſt to ſhew you the Conſequence of thoſe Commiſſions, to invalidate all your Pretenſions. <hi>Cranmer,</hi> you know, took a <hi>Commiſſion</hi> in <hi>Octob.</hi> 1535. <hi>Barlow</hi> was made Biſhop of St. <hi>Aſaph, Feb.</hi> 1535. and Com<g ref="char:EOLhyphen"/>miſſions being then brought in, no doubt but he
+<note n="*" place="margin">And his Conſecration has been much que<g ref="char:EOLhyphen"/>ſtioned.</note> took one too, and he was the firſt promoted by Patent from <hi>Ed.</hi> 6. and <hi>Story</hi> and
+<note n="‖" place="margin">Intruded into the place of <hi>Veſey</hi> frighted out. v. <hi>Harmar, p.</hi> 100, 129.</note> 
+               <hi>Coverdale</hi> alſo held by Patent from <hi>Ed.</hi> 6. Theſe alſo were or<g ref="char:EOLhyphen"/>dained by <hi>Cranmer,</hi> and you know they could receive no more from him, than what he did intend actually to give, (<hi>c.</hi> 22. <hi>Of Schiſm,</hi> §. 6.) and by his Commiſſion could give. Nor could they give more to <hi>Mat. Parker</hi> than they had received. So that all depends upon <hi>Cranmer</hi>'s <hi>preſumable Intention,</hi> which is ſufficiently <hi>manifest, by his Principles, and Commiſſion,</hi> to have been only an Authority derived from the King and dependent upon him. His <hi>Acceptance of a Com<g ref="char:EOLhyphen"/>miſſion</hi> was an implicit Renunciation of his former Authority, and whether not a great Sin, and diſpleaſing to our Lord, I leave others to judge. But their <hi>Original Authority</hi> was <hi>by Commiſſion,</hi> and what more was done was then looked upon but as a <hi>Formality.</hi> It is ap<g ref="char:EOLhyphen"/>parent enough by the Act, 1 <hi>Ed.</hi> 6. <hi>c.</hi> 2. that no Biſhops of his time could be made or promoted but by Patent; and there were no leſs than <hi>Seven</hi> of them at a daſh deprived upon that account in the beginning of Queen <hi>Mary</hi>'s Reign, what-ever is pretended of ſpe<g ref="char:EOLhyphen"/>cial favour to the Proteſtant Biſhops, which could be no more than to hold <hi>quam diu,</hi> inſtead of <hi>durante bene placito.</hi> But none held by Commiſſion in Q. <hi>Mary</hi>'s time, after ſhe had repealed the Acts of her Father and Brother, and reſtored all again to the old Poſture. And this, I hope, is a <hi>ſufficient Reply</hi> to your firſt Reaſon, and ſome<g ref="char:EOLhyphen"/>thing more for you to conſider.</p>
+            <p>Your next Reaſon is ſuch another, that thoſe Biſhops <hi>were then notoriouſly of another Communion different from the Proteſtants:</hi> But, 1. there were then no Proteſtant Biſhops in being; but thoſe now mentioned, ſuch as they were, and of them one had reſigned, and
+<pb n="4" facs="tcp:192033:3" rendition="simple:additions"/>the other two were actually deprived, and juſtly according to your former Reaſon. And, 2. there could therefore then be no Com<g ref="char:EOLhyphen"/>munion of Proteſtants, but Schiſmatical. The Biſhops then in Poſ<g ref="char:EOLhyphen"/>ſeſſion were all compleat Biſhops without all queſtion, and their Poſſeſſion good and lawful alſo beyond all queſtion: Their <hi>Depri<g ref="char:EOLhyphen"/>vation</hi> was by meer incompetent
+<note n="*" place="margin">In both Ex<g ref="char:EOLhyphen"/>ecution and Conſtitution without Spi<g ref="char:EOLhyphen"/>ritual Sen<g ref="char:EOLhyphen"/>tence.</note> Lay-Authority, and for an unjuſt and wicked Cauſe in them who deprived them, but a juſt and glo<g ref="char:EOLhyphen"/>rious Cauſe in them who ſuffered, for their refuſal of an
+<note n="†" place="margin">Nor of Fi<g ref="char:EOLhyphen"/>delity to the Prince, but of Unfaith<g ref="char:EOLhyphen"/>fulneſs to the Church.</note> 
+               <hi>Oath,</hi> which you your ſelf cannot think tolerable in the plain ſenſe of the words, or without ſuch Expoſition, as with all your Skill and Pains you cannot ſo prove as to ſatisfie a conſcientious, intelligent Perſon, who well conſiders it. And for this Cauſe, and by ſuch Authority, were all the Biſhops of <hi>England</hi> and <hi>Wales,</hi> except one deſpicable Tempo<g ref="char:EOLhyphen"/>rizer, beſides Deans, Prebends, and other of the Clergy, <hi>&amp;c.</hi> de<g ref="char:EOLhyphen"/>prived, and others put in their Places, by no commendable or ju<g ref="char:EOLhyphen"/>ſtifiable Election, or other Conſecration than as aforeſaid, and ſo queſtionable, and queſtioned at that time, that 7 or 8 years after, by reaſon of <hi>divers Queſtions then grown upon the Making and Conſecrating Arch-Biſhops and Biſhops,</hi> it was thought convenient to make a new Act to juſtifie and ratifie the ſame.
+<note place="margin">8 <hi>Eiz. c.</hi> 1.</note> So that here was not only <hi>Schiſm,</hi> but
+<note n="‖" place="margin">It may well be queſtion<g ref="char:EOLhyphen"/>ed, whether the <hi>Diſſen<g ref="char:EOLhyphen"/>ters Ordina<g ref="char:EOLhyphen"/>tions</hi> be not as good as yours.</note> 
+               <hi>Ordination invalid in it ſelf</hi> beſides, in this Caſe. And was this ſuch a different Communion, as might make the Judgment of a Synod needleſs, and juſtifie the Lay-Authority in <hi>driving away</hi> (as you call it) Catholick Biſhops and Clergy? What Communion of Schiſmaticks hath ever appeared ſince the Apoſtles more groſs and notorious than this? What Perſecutions of <hi>Arians,</hi> or <hi>Donatiſts,</hi> or what you will, but may be thus defended, excuſed, and juſtified, as well as this?</p>
+            <p>In what I have already ſaid is the Summ of the Cauſe, and the Principles and Grounds of all the reſt that is to be ſaid; and therefore, as I think it needleſs to proceed farther in my <hi>Reply</hi> to a Man of Learning and Parts, who by what is already ſaid may perceive what is farther to be ſaid; ſo I am willing to ſpare my Pains, not only for my own ſake, but for yours: for I am ſorry that you, who have deſerved ſo well in the former Cauſe, ſhould be ſo unhappily ingaged in this, and expoſe your ſelf in Defence of what may afford matter for Exerciſe of Wit and Skill, like <hi>Carneades</hi> diſputing againſt Juſtice, but nothing for Demonſtration of more commendable Qualities, unleſs you will generouſly give up the Defence, and ingenuouſly declare the Truth. And, in good earneſt, if you will believe me to be ſo much your Friend, as really I am, I can give you no better Advice for the Recovery of your Credit and juſt Eſteem among Men, and for Expiation of that unhappy Fault before God, than to do ſo, and ſave me the Labour of any farther Reply, by doing it your ſelf, which, 'tis like, will then be more accurately per<g ref="char:EOLhyphen"/>form'd, than poſſibly I ſhould have done it. For ſo that Truth be promoted, I care not by what hand it be: And for that purpoſe I ſhall here leave it to you: But if you diſlike the Motion, and deſire my farther Pains, I ſhall be ready to ſerve you in it as well as I can.</p>
+            <closer>
+               <signed>Your Faithful Friend, and Humble Servant.</signed>
+            </closer>
+            <pb facs="tcp:192033:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
